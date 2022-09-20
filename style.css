@@ -24,6 +24,7 @@ main{
 	margin-left: 300px;
 	font-size: 3em;
 	font-family: 'Nosifer';
+	font-color: white;
 	text-decoration: overline underline;
 	
 }
@@ -210,6 +211,7 @@ main{
 	font-family: all;
 	text-align: center;
 	font-size: 30px;
+	font-color: white;
 	background: black;
 }
 
@@ -229,5 +231,6 @@ main{
     	float: left;
     	margin: 0px 0px 0px 0px;
     	font-size: 25px;
+	font-color: white;
     }
 
